@@ -10,9 +10,9 @@
   "dependencies": {
     "@dkez/async-leaf": "^0.0.2",
     "@dkez/leaf": "^0.0.2",
-    "react": "^16.8.0",
-    "react-dom": "^16.8.0",
-    "react-router-dom": "^4.2.2"
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-router-dom": "5.2.0"
   },
   "scripts": {
     "dev": "webpack-dev-server --mode development --color",
